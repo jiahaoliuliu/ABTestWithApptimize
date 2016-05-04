@@ -30,6 +30,6 @@ dependencies {
   compile 'com.android.support:design:23.3.0'
 
   // Apptimize
-  compile 'com.apptimize:apptimize-android:2.10.2'
+  compile 'com.apptimize:apptimize-android:2.10.9'
 
 }
