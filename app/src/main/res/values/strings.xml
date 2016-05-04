@@ -1,3 +1,5 @@
 <resources>
   <string name="app_name">ABTestWithApptimize</string>
+  <string name="main_screen_my_fantastic_item">Check out my fantastic item</string>
+  <string name="title_activity_item_details">ItemDetailsActivity</string>
 </resources>
