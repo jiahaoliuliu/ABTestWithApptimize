@@ -46,6 +46,7 @@
 
   <!-- Bottom buttons -->
   <LinearLayout
+      android:id="@+id/bottom_buttons_linear_layout"
       android:layout_width="match_parent"
       android:layout_height="60dp"
       android:orientation="horizontal"

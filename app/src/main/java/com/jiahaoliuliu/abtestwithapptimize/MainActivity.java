@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Initialize variables
-        mContext = this;
+        this.mContext = this;
 
         // Link the views
         mCheckMyFantasticItemView = (Button) findViewById(R.id.check_my_fantastic_item_button);
